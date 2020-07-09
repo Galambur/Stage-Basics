@@ -1,0 +1,16 @@
+[general]
+name=Actions basiques
+description=Permet de faire des actions basiques de QGis
+about=Il faut sélectionner manuellement la couche sur laquelle on veut 
+   travailler.
+   Ouvre une interface au lancement. On peut choisir :
+   <ul><li>Changer le nom d'une colonne : une liste nous sera proposée</li>
+   <li>Ajouter une colonne : on pourra écrire le nom</li>
+   <li>Supprimer une colonne : une liste nous sera proposée</li>
+   <li>Copier une colonne : on choisit la colonne dont on veut copier 
+   les valeurs dans une liste, puis de même pour la colonne dans 
+   laquelle on veut les coller</li></ul>
+version=2.0
+qgisMinimumVersion=3.0
+author=Gaelle Derambure
+email=gaelle.derambure@cdc-habitat.fr
