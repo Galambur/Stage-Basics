@@ -10,7 +10,7 @@ about=Il faut sélectionner manuellement la couche sur laquelle on veut
    <li>Copier une colonne : on choisit la colonne dont on veut copier 
    les valeurs dans une liste, puis de même pour la colonne dans 
    laquelle on veut les coller</li></ul>
-version=2.0
+version=2.2
 qgisMinimumVersion=3.0
 author=Gaelle Derambure
 email=gaelle.derambure@cdc-habitat.fr
